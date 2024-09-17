@@ -1,13 +1,12 @@
-# Pizza_sales_analysis
-
-🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 Welcome to the Pizza Sales Analysis project! This repository contains an in-depth analysis of pizza sales data to help optimize business performance and gain insights into customer preferences. The analysis was performed using Azure Data Studio and visualized with Tableau.
 
-📊 Business Question
+## 📊 Business Question
+
 How can the pizza store optimize its sales performance by identifying the most profitable pizza combinations and understanding customer preferences based on order patterns, peak hours, and top-selling items?
 
-🔍 Key Metrics Analyzed
+## 🔍 Key Metrics Analyzed
 
 1. Total Number of Orders: Overall orders placed.
 
@@ -31,9 +30,9 @@ How can the pizza store optimize its sales performance by identifying the most p
 
 11. Cumulative Revenue Over Time: Revenue growth analysis.
 
-📈 Tableau Dashboards
+## 📈 Tableau Dashboards
 
-Dashboard 1:
+### Dashboard 1:
 
 a) Total Revenue: Visual representation of total revenue.
 
@@ -53,7 +52,7 @@ h) Percentage of Sales by Pizza Category: Sales distribution by pizza category.
 
 i) Percentage of Sales by Pizza Size: Sales distribution by pizza size.
 
-Dashboard 2:
+### Dashboard 2:
 
 a) Top 5 Pizzas by Revenue: Highest revenue-generating pizzas.
 
@@ -67,15 +66,15 @@ e) Bottom 5 Pizzas by Total Pizzas Sold: Least sold pizzas.
 
 f) Bottom 5 Pizzas by Total Orders: Least ordered pizzas.
 
-Tableau Viz Link: https://public.tableau.com/app/profile/shashank.sangu/viz/PizzaSalesProject_17048234131680/BestWorstSellers
+### Tableau Viz Link: https://public.tableau.com/app/profile/shashank.sangu/viz/PizzaSalesProject_17048234131680/BestWorstSellers
 
-💻 Tools Used
+## 💻 Tools Used
 
 Azure Data Studio: For data analysis and querying.
 
 Tableau: For data visualization and dashboard creation.
 
-🛠️ Setup Instructions
+## 🛠️ Setup Instructions
 
 Clone the Repository
 bash
@@ -92,12 +91,12 @@ Run Queries Execute the SQL queries to perform the analysis.
 
 Visualize in Tableau Open the Tableau workbook files provided to view the dashboards.
 
-📑 License
+## 📑 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-📫 Contact
+## 📫 Contact
 
 For any questions or suggestions, please contact shashank.sangu@outlook.com
 
